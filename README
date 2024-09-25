@@ -1,0 +1,21 @@
+# School Unity Projects Repository
+
+Welcome to my school repository! This repo contains the Unity projects I’ve worked on as part of my studies. Each folder represents a different project or assignment.
+
+## Projects
+
+1. **Project Name 1** - Brief description of the project.
+2. **Project Name 2** - Brief description of the project.
+3. **Project Name 3** - Brief description of the project.
+
+## Requirements
+
+To run the Unity projects:
+- Unity Editor version (LTS Release 2020.3.44f1)
+- Windows
+
+## Usage
+
+Clone the repository and open the desired project in Unity:
+```bash
+git clone https://github.com/Botterschuedi/MAIN0501.git
